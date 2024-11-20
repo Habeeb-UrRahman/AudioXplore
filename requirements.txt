@@ -1,10 +1,10 @@
 streamlit
+tensorflow
 librosa
 numpy
-tensorflow
+pydub
 joblib
 matplotlib
-streamlit-option-menu
 streamlit-lottie
-scipy
-pyaudio
+streamlit-option-menu
+setuptools
